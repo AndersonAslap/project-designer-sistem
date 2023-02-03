@@ -1,1 +1,11 @@
-# project-designer-sistem
+# Components
+
+- [ ] Text
+- [ ] Heading
+- [ ] Box
+- [ ] Button
+- [ ] TextInput
+- [ ] TextArea
+- [ ] Checkbox
+- [ ] Avatar
+- [ ] MultiStep
